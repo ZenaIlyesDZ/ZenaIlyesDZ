@@ -1,16 +1,38 @@
-## Hi there 👋
+# 📌 Hi, I'm Ilyes
+I'm a BTS CIEL student passionate about **cybersecurity**, **cyber defense**, and **ethical hacking**, who's based in UAE.
 
-<!--
-**ZenaIlyesDZ/ZenaIlyesDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+## 👤 About me
+- 🖋️ BTS CIEL student (1st year)  
+- 🔐 Interested in **penetration testing**, **SOC/blue team**, and **system/network administration**  
+- 💡 Enjoy learning and experimenting with cybersecurity tools and environments  
+- 🚀 Actively building my portfolio to prepare for my future in cybersecurity 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Linux (Ubuntu Desktop / Server) – basics  
+- C++ and Python – basics  
+- Git & GitHub – basics
+
+---
+
+## 🚀 Currently Learning
+- Kali Linux – basics  
+- Pentesting tools (Nmap, Hydra, Metasploit…) – basics  
+- System & network administration – basics
+
+
+## 📁 My projects
+- A Logs Management app in C++
+   Simple log management tool written in C++, created as part of my BTS CIEL projects.
+
+---
+
+## 🎯 Goals
+- Understand **IT infrastructure** in general  
+- Explore **cybersecurity** from both **defensive / blue team** and **offensive / red team** perspectives  
+- Build a strong **cybersecurity portfolio**
+
+  
