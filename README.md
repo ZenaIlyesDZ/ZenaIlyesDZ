@@ -4,10 +4,10 @@ I'm a BTS CIEL student passionate about **cybersecurity**, **cyber defense**, an
 --- 
 
 ## 👤 About me
-- 🖋️ BTS CIEL student (1st year)  
-- 🔐 Interested in **penetration testing**, **SOC/blue team**, and **system/network administration**  
-- 💡 Enjoy learning and experimenting with cybersecurity tools and environments  
-- 🚀 Actively building my portfolio to prepare for my future in cybersecurity 
+- BTS CIEL student (1st year)  
+- Interested in **penetration testing**, **SOC/blue team**, and **system/network administration**  
+- Enjoy learning and experimenting with cybersecurity tools and environments  
+- Actively building my portfolio to prepare for my future in cybersecurity 
 
 ---
 
@@ -15,17 +15,14 @@ I'm a BTS CIEL student passionate about **cybersecurity**, **cyber defense**, an
 - Linux (Ubuntu Desktop / Server) – basics  
 - C++ and Python – basics  
 - Git & GitHub – basics
-
----
-
-## 🚀 Currently Learning
-- Kali Linux – basics  
-- Pentesting tools (Nmap, Hydra, Metasploit…) – basics  
-- System & network administration – basics
+  > Currently Learning
+   - Kali Linux – basics  
+   - Pentesting tools (Nmap, Hydra, Metasploit…) – basics  
+   - System & network administration – basics
 
 
 ## 📁 My projects
-- A Logs Management app in C++
+- A Logs Management app in C++ :
    Simple log management tool written in C++, created as part of my BTS CIEL projects.
 
 ---
