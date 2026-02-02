@@ -10,16 +10,9 @@ I'm a BTS CIEL student passionate about **cybersecurity**, **cyber defense**, an
 - Building my portfolio to prepare for my future in cybersecurity 
 
 ---
-
-## 🛠️ Skills & Learning
-- Linux – basics  
-- C++, Python – basics  
-- Git & GitHub – basics   
-- Kali Linux – learning
-- Pentesting tools (Nmap, Hydra, Metasploit…) – learning 
-- System & network administration – learning
-
----
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📁 My projects
 - **A Logs Management app in C++** : Simple log management tool written in C++, created as part of my BTS CIEL projects.
