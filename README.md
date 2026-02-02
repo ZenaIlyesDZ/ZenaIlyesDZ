@@ -1,15 +1,7 @@
-# 📌 Hi, I'm Ilyes
-I'm a BTS CIEL student passionate about **cybersecurity**, **cyber defense**, and **ethical hacking**, based in UAE.
-
---- 
-
 ## 👤 About me
-- BTS CIEL student (1st year)  
-- Interested in **penetration testing**, **SOC/blue team**, and **system/network administration**  
-- Enjoy learning and experimenting with cybersecurity tools and environments  
-- Building my portfolio to prepare for my future in cybersecurity 
+I am a BTS CIEL student (1st year), passionate about **penetration testing**, **SOC/blue team**, and **system/network administration**  
+I enjoy learning and experimenting with cybersecurity tools and environments  
 
----
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -20,7 +12,7 @@ I'm a BTS CIEL student passionate about **cybersecurity**, **cyber defense**, an
 
 ---
 
-## 🎯 Goals
+## 🎯 My Goals
 - Understand **IT infrastructure** in general  
 - Explore **cybersecurity** from both **defensive / blue team** and **offensive / red team** perspectives  
 - Build a strong cybersecurity portfolio
