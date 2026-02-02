@@ -1,4 +1,6 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZkNjkwaGVuMnA1dXRibWd1YW9iamE1NG1tZWRwZXd3MDRxcmxuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif" width="750" />
+---
+ 
 ## 👤 About me
 I am a BTS CIEL student (1st year), passionate about **penetration testing**, **SOC/blue team**, and **system/network administration**  
 I enjoy learning and experimenting with cybersecurity tools and environments  
