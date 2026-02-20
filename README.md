@@ -27,6 +27,5 @@ I enjoy learning and experimenting with cybersecurity tools and environments
 
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6632728" style='border:none;'></iframe>
 
   
