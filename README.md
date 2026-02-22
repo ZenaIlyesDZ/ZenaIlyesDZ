@@ -27,5 +27,6 @@ I enjoy learning and experimenting with cybersecurity tools and environments
 
 ---
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ZenaIlyesDZ.png)](https://tryhackme.com/p/ZenaIlyesDZ)
 
   
