@@ -13,6 +13,9 @@ I enjoy learning and experimenting with cybersecurity tools and environments
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+My TryHackMe profile : 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ZenaIlyesDZ.png)](https://tryhackme.com/p/ZenaIlyesDZ)
+
 
 ## 📁 My projects
 - **A Logs Management app in C++** : Simple log management tool written in C++, created as part of my BTS CIEL projects.
@@ -27,6 +30,5 @@ I enjoy learning and experimenting with cybersecurity tools and environments
 
 ---
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ZenaIlyesDZ.png)](https://tryhackme.com/p/ZenaIlyesDZ)
 
   
