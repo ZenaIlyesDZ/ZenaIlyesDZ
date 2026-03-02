@@ -13,7 +13,7 @@ I am a BTS CIEL student (1st year), passionate about **penetration testing**, **
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ZenaIlyesDZ.png)](https://tryhackme.com/p/ZenaIlyesDZ) 
-[![Hack The Box](https://www.hackthebox.com/badge/image/3221587)](https://app.hackthebox.com/profile/3221587)
+[![Hack The Box](https://www.hackthebox.com/badge/image/3221587)](https://app.hackthebox.com/profile/3221587) 
 
 ## 📁 My projects
 - **A Logs Management app in C++** : Simple log management tool written in C++, created as part of my BTS CIEL projects.
