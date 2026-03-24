@@ -14,7 +14,6 @@ I am a BTS CIEL student (1st year), passionate about **penetration testing**, **
 
 ## 📁 My projects
 - **A Logs Management app in C++** : Simple log management tool written in C++, created as part of my BTS CIEL projects.
-- **Pentest Lab (Kali + Metasploitable 2)** : First lab to learn and practice basic tools and concepts of pentesting.
 - **Automation Script in Bash** : Some simples script in Bash to automate some recurrent task.
 
 ---
